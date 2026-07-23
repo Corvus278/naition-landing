@@ -3,11 +3,27 @@ document.addEventListener('DOMContentLoaded', () => {
     const form = document.getElementById('registration-form');
     const message = document.getElementById('form-message');
     const registerButtons = document.querySelectorAll('.btn-register');
+    const purposeField = form ? form.querySelector('[name="purpose"]') : null;
+    const tariffNote = document.getElementById('tariff-note');
 
     registerButtons.forEach((button) => {
         button.addEventListener('click', () => {
             if (!registrationSection) {
                 return;
+            }
+
+            const pricingCard = button.closest('.pricing-card');
+            const tariffName = pricingCard ? pricingCard.querySelector('h3')?.textContent : null;
+
+            if (tariffName) {
+                if (purposeField instanceof HTMLTextAreaElement) {
+                    purposeField.value = `Хочу записаться на тариф «${tariffName}»`;
+                }
+
+                if (tariffNote) {
+                    tariffNote.textContent = `Вы выбрали тариф «${tariffName}»`;
+                    tariffNote.hidden = false;
+                }
             }
 
             registrationSection.scrollIntoView({ behavior: 'smooth', block: 'start' });

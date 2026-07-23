@@ -306,6 +306,7 @@
                 <p class="section-lead">
                     Выберите формат участия. Во все тарифы входят материалы, сертификат и доступ к памятке после курса.
                 </p>
+                <p class="pricing-note">Оплата — на месте, при подтверждении записи. Никакой предоплаты онлайн.</p>
                 <div class="pricing-grid">
                     <article class="pricing-card">
                         <h3>Базовый</h3>
@@ -348,24 +349,30 @@
                     <p class="section-lead">
                         Оставьте заявку, и мы свяжемся с вами, чтобы подтвердить место и ответить на вопросы.
                     </p>
+                    <p class="tariff-note" id="tariff-note" hidden></p>
+                    <ul class="registration-trust">
+                        <li>Без предоплаты — оплата обсуждается по звонку</li>
+                        <li>Не передаём данные третьим лицам</li>
+                        <li>Заполнение — меньше минуты</li>
+                    </ul>
                     <form class="form-grid" id="registration-form" action="api/submit.php" method="post">
                         <label>
                             Имя
-                            <input type="text" name="name" required autocomplete="name">
+                            <input type="text" name="name" required autocomplete="name" placeholder="Как к вам обращаться">
                         </label>
                         <label>
                             Телефон
-                            <input type="tel" name="phone" required autocomplete="tel">
+                            <input type="tel" name="phone" required autocomplete="tel" placeholder="+7 900 000-00-00">
                         </label>
                         <label>
                             E-mail
-                            <input type="email" name="email" required autocomplete="email">
+                            <input type="email" name="email" required autocomplete="email" placeholder="you@example.com">
                         </label>
                         <label>
                             Цель прохождения курса
-                            <textarea name="purpose" required></textarea>
+                            <textarea name="purpose" required>Хочу увереннее действовать в экстренной ситуации</textarea>
                         </label>
-                        <button type="submit" class="btn">Отправить заявку</button>
+                        <button type="submit" class="btn btn-submit">Отправить заявку</button>
                     </form>
                     <p class="form-message" id="form-message" aria-live="polite"></p>
                 </div>
