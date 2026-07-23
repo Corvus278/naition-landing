@@ -1,0 +1,6040 @@
+[
+ {
+  "visitId": "4182058316087951508",
+  "userIdHash": "2805636497",
+  "dateTime": "2026-07-23 18:28:06",
+  "durationSec": "41",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 26,
+   "windowfocus": 1,
+   "mousemove": 69,
+   "mousedown": 3,
+   "mouseup": 3,
+   "click": 3,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 109,
+  "firstEventMs": 0,
+  "lastEventMs": 41855
+ },
+ {
+  "visitId": "4182056638039457933",
+  "userIdHash": "3710290500",
+  "dateTime": "2026-07-23 18:28:00",
+  "durationSec": "49",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 57,
+   "windowfocus": 2,
+   "mousemove": 53,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 129,
+  "firstEventMs": 0,
+  "lastEventMs": 49845
+ },
+ {
+  "visitId": "4182056017496113250",
+  "userIdHash": "3357747089",
+  "dateTime": "2026-07-23 18:27:57",
+  "durationSec": "23",
+  "pageViews": "1",
+  "webVisorActivity": "1",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 4,
+   "windowfocus": 1,
+   "mousemove": 36,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 45,
+  "firstEventMs": 0,
+  "lastEventMs": 23718
+ },
+ {
+  "visitId": "4182053568162300086",
+  "userIdHash": "3352291704",
+  "dateTime": "2026-07-23 18:27:48",
+  "durationSec": "58",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 52,
+   "windowfocus": 1,
+   "mousemove": 73,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 143,
+  "firstEventMs": 0,
+  "lastEventMs": 58463
+ },
+ {
+  "visitId": "4182048939874189568",
+  "userIdHash": "1591459612",
+  "dateTime": "2026-07-23 18:27:30",
+  "durationSec": "50",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 51,
+   "windowfocus": 1,
+   "mousemove": 83,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 152,
+  "firstEventMs": 0,
+  "lastEventMs": 50904
+ },
+ {
+  "visitId": "4182047361419444415",
+  "userIdHash": "3038556562",
+  "dateTime": "2026-07-23 18:27:24",
+  "durationSec": "57",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 79,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 152,
+  "firstEventMs": 0,
+  "lastEventMs": 57331
+ },
+ {
+  "visitId": "4182047100267397258",
+  "userIdHash": "1960661570",
+  "dateTime": "2026-07-23 18:27:23",
+  "durationSec": "47",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 2,
+   "mousemove": 61,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 135,
+  "firstEventMs": 0,
+  "lastEventMs": 47248
+ },
+ {
+  "visitId": "4182045730753216906",
+  "userIdHash": "3795620908",
+  "dateTime": "2026-07-23 18:27:18",
+  "durationSec": "29",
+  "pageViews": "1",
+  "webVisorActivity": "1",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 30,
+   "windowfocus": 1,
+   "mousemove": 27,
+   "mousedown": 1,
+   "mouseup": 1,
+   "click": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 65,
+  "firstEventMs": 0,
+  "lastEventMs": 29507
+ },
+ {
+  "visitId": "4182045098475782380",
+  "userIdHash": "454996925",
+  "dateTime": "2026-07-23 18:27:16",
+  "durationSec": "60",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 1,
+   "mousemove": 81,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 155,
+  "firstEventMs": 0,
+  "lastEventMs": 60153
+ },
+ {
+  "visitId": "4182043016311079190",
+  "userIdHash": "2967153334",
+  "dateTime": "2026-07-23 18:27:08",
+  "durationSec": "58",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 54,
+   "windowfocus": 2,
+   "mousemove": 69,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 142,
+  "firstEventMs": 0,
+  "lastEventMs": 58467
+ },
+ {
+  "visitId": "4182042868296974498",
+  "userIdHash": "2579419285",
+  "dateTime": "2026-07-23 18:27:07",
+  "durationSec": "65",
+  "pageViews": "1",
+  "webVisorActivity": "3",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 52,
+   "windowfocus": 1,
+   "mousemove": 96,
+   "mousedown": 9,
+   "mouseup": 9,
+   "click": 9,
+   "focus": 6,
+   "blur": 6,
+   "change": 138,
+   "keystroke": 15,
+   "submit": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 346,
+  "firstEventMs": 0,
+  "lastEventMs": 65840
+ },
+ {
+  "visitId": "4182041957234377021",
+  "userIdHash": "1326133105",
+  "dateTime": "2026-07-23 18:27:04",
+  "durationSec": "55",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 52,
+   "windowfocus": 1,
+   "mousemove": 72,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 142,
+  "firstEventMs": 0,
+  "lastEventMs": 55615
+ },
+ {
+  "visitId": "4182042136393023540",
+  "userIdHash": "4040165139",
+  "dateTime": "2026-07-23 18:27:04",
+  "durationSec": "61",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 61,
+   "windowfocus": 1,
+   "mousemove": 80,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 159,
+  "firstEventMs": 0,
+  "lastEventMs": 61324
+ },
+ {
+  "visitId": "4182041289612591172",
+  "userIdHash": "3380932923",
+  "dateTime": "2026-07-23 18:27:01",
+  "durationSec": "55",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 1,
+   "mousemove": 63,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 137,
+  "firstEventMs": 0,
+  "lastEventMs": 55752
+ },
+ {
+  "visitId": "4182037102833959120",
+  "userIdHash": "452292330",
+  "dateTime": "2026-07-23 18:26:45",
+  "durationSec": "44",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 23,
+   "windowfocus": 1,
+   "mousemove": 47,
+   "mousedown": 3,
+   "mouseup": 3,
+   "click": 3,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 84,
+  "firstEventMs": 0,
+  "lastEventMs": 44734
+ },
+ {
+  "visitId": "4182036372992033118",
+  "userIdHash": "3924682121",
+  "dateTime": "2026-07-23 18:26:42",
+  "durationSec": "20",
+  "pageViews": "1",
+  "webVisorActivity": "1",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 5,
+   "windowfocus": 1,
+   "mousemove": 25,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 35,
+  "firstEventMs": 0,
+  "lastEventMs": 20901
+ },
+ {
+  "visitId": "4182034812993798187",
+  "userIdHash": "3262552448",
+  "dateTime": "2026-07-23 18:26:36",
+  "durationSec": "47",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 55,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 128,
+  "firstEventMs": 0,
+  "lastEventMs": 47456
+ },
+ {
+  "visitId": "4182032609721974892",
+  "userIdHash": "99575758",
+  "dateTime": "2026-07-23 18:26:28",
+  "durationSec": "49",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 57,
+   "windowfocus": 2,
+   "mousemove": 55,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 131,
+  "firstEventMs": 0,
+  "lastEventMs": 49680
+ },
+ {
+  "visitId": "4182032479815991505",
+  "userIdHash": "2968735963",
+  "dateTime": "2026-07-23 18:26:27",
+  "durationSec": "47",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 59,
+   "windowfocus": 2,
+   "mousemove": 86,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 164,
+  "firstEventMs": 0,
+  "lastEventMs": 47757
+ },
+ {
+  "visitId": "4182031592948498468",
+  "userIdHash": "3079419791",
+  "dateTime": "2026-07-23 18:26:24",
+  "durationSec": "58",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 1,
+   "mousemove": 77,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 151,
+  "firstEventMs": 0,
+  "lastEventMs": 58788
+ },
+ {
+  "visitId": "4182031699029262576",
+  "userIdHash": "1783365041",
+  "dateTime": "2026-07-23 18:26:24",
+  "durationSec": "39",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 29,
+   "windowfocus": 1,
+   "mousemove": 70,
+   "mousedown": 3,
+   "mouseup": 3,
+   "click": 3,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 113,
+  "firstEventMs": 0,
+  "lastEventMs": 39405
+ },
+ {
+  "visitId": "4182030704448635080",
+  "userIdHash": "2999522429",
+  "dateTime": "2026-07-23 18:26:21",
+  "durationSec": "45",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 52,
+   "windowfocus": 1,
+   "mousemove": 73,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 143,
+  "firstEventMs": 0,
+  "lastEventMs": 45957
+ },
+ {
+  "visitId": "4182029502629806291",
+  "userIdHash": "3219080693",
+  "dateTime": "2026-07-23 18:26:16",
+  "durationSec": "51",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 53,
+   "windowfocus": 2,
+   "mousemove": 75,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 147,
+  "firstEventMs": 0,
+  "lastEventMs": 51152
+ },
+ {
+  "visitId": "4182027029039284292",
+  "userIdHash": "2109155924",
+  "dateTime": "2026-07-23 18:26:07",
+  "durationSec": "38",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 54,
+   "windowfocus": 1,
+   "mousemove": 35,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 107,
+  "firstEventMs": 0,
+  "lastEventMs": 38076
+ },
+ {
+  "visitId": "4182025561691652585",
+  "userIdHash": "1099623592",
+  "dateTime": "2026-07-23 18:26:01",
+  "durationSec": "40",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 30,
+   "windowfocus": 1,
+   "mousemove": 58,
+   "mousedown": 2,
+   "mouseup": 2,
+   "click": 2,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 99,
+  "firstEventMs": 0,
+  "lastEventMs": 40849
+ },
+ {
+  "visitId": "4182025199612068226",
+  "userIdHash": "1776372234",
+  "dateTime": "2026-07-23 18:26:00",
+  "durationSec": "60",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 1,
+   "mousemove": 77,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 151,
+  "firstEventMs": 0,
+  "lastEventMs": 60993
+ },
+ {
+  "visitId": "4182020393091465636",
+  "userIdHash": "3253565751",
+  "dateTime": "2026-07-23 18:25:41",
+  "durationSec": "54",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 59,
+   "windowfocus": 1,
+   "mousemove": 76,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 153,
+  "firstEventMs": 0,
+  "lastEventMs": 54566
+ },
+ {
+  "visitId": "4182018398028562611",
+  "userIdHash": "393649527",
+  "dateTime": "2026-07-23 18:25:34",
+  "durationSec": "53",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 60,
+   "windowfocus": 1,
+   "mousemove": 73,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 151,
+  "firstEventMs": 0,
+  "lastEventMs": 53374
+ },
+ {
+  "visitId": "4182018235294810284",
+  "userIdHash": "3450092976",
+  "dateTime": "2026-07-23 18:25:33",
+  "durationSec": "50",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 57,
+   "windowfocus": 1,
+   "mousemove": 88,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 163,
+  "firstEventMs": 0,
+  "lastEventMs": 50592
+ },
+ {
+  "visitId": "4182016804973183282",
+  "userIdHash": "3492266957",
+  "dateTime": "2026-07-23 18:25:28",
+  "durationSec": "56",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 54,
+   "windowfocus": 1,
+   "mousemove": 83,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 155,
+  "firstEventMs": 0,
+  "lastEventMs": 56392
+ },
+ {
+  "visitId": "4182016551003357363",
+  "userIdHash": "1902047717",
+  "dateTime": "2026-07-23 18:25:27",
+  "durationSec": "60",
+  "pageViews": "1",
+  "webVisorActivity": "3",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 88,
+   "mousedown": 9,
+   "mouseup": 9,
+   "click": 9,
+   "focus": 6,
+   "blur": 6,
+   "change": 146,
+   "keystroke": 15,
+   "submit": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 349,
+  "firstEventMs": 0,
+  "lastEventMs": 60850
+ },
+ {
+  "visitId": "4182016168059732311",
+  "userIdHash": "639957738",
+  "dateTime": "2026-07-23 18:25:25",
+  "durationSec": "50",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 57,
+   "windowfocus": 1,
+   "mousemove": 69,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 144,
+  "firstEventMs": 0,
+  "lastEventMs": 50504
+ },
+ {
+  "visitId": "4182015615251775694",
+  "userIdHash": "801348273",
+  "dateTime": "2026-07-23 18:25:23",
+  "durationSec": "57",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 65,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 138,
+  "firstEventMs": 0,
+  "lastEventMs": 57161
+ },
+ {
+  "visitId": "4182010081628127337",
+  "userIdHash": "2788533272",
+  "dateTime": "2026-07-23 18:25:02",
+  "durationSec": "64",
+  "pageViews": "1",
+  "webVisorActivity": "3",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 54,
+   "windowfocus": 1,
+   "mousemove": 96,
+   "mousedown": 9,
+   "mouseup": 9,
+   "click": 9,
+   "focus": 6,
+   "blur": 6,
+   "change": 154,
+   "keystroke": 15,
+   "submit": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 364,
+  "firstEventMs": 0,
+  "lastEventMs": 64247
+ },
+ {
+  "visitId": "4182010198605168889",
+  "userIdHash": "2519188790",
+  "dateTime": "2026-07-23 18:25:02",
+  "durationSec": "56",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 59,
+   "windowfocus": 2,
+   "mousemove": 89,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 167,
+  "firstEventMs": 0,
+  "lastEventMs": 56820
+ },
+ {
+  "visitId": "4182009748828193206",
+  "userIdHash": "4178579271",
+  "dateTime": "2026-07-23 18:25:01",
+  "durationSec": "59",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 95,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 168,
+  "firstEventMs": 0,
+  "lastEventMs": 59923
+ },
+ {
+  "visitId": "4182006718712250720",
+  "userIdHash": "1490641360",
+  "dateTime": "2026-07-23 18:24:49",
+  "durationSec": "44",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 2,
+   "mousemove": 44,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 119,
+  "firstEventMs": 0,
+  "lastEventMs": 44205
+ },
+ {
+  "visitId": "4182004312773492859",
+  "userIdHash": "4133783187",
+  "dateTime": "2026-07-23 18:24:40",
+  "durationSec": "52",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 53,
+   "windowfocus": 2,
+   "mousemove": 81,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 153,
+  "firstEventMs": 0,
+  "lastEventMs": 52760
+ },
+ {
+  "visitId": "4182003590324814200",
+  "userIdHash": "1837393323",
+  "dateTime": "2026-07-23 18:24:37",
+  "durationSec": "63",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 1,
+   "mousemove": 103,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 177,
+  "firstEventMs": 0,
+  "lastEventMs": 63675
+ },
+ {
+  "visitId": "4182003182646853975",
+  "userIdHash": "1195874968",
+  "dateTime": "2026-07-23 18:24:36",
+  "durationSec": "50",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 58,
+   "windowfocus": 1,
+   "mousemove": 58,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 134,
+  "firstEventMs": 0,
+  "lastEventMs": 50623
+ },
+ {
+  "visitId": "4182003321421169081",
+  "userIdHash": "1023641604",
+  "dateTime": "2026-07-23 18:24:36",
+  "durationSec": "48",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 54,
+   "windowfocus": 1,
+   "mousemove": 71,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 143,
+  "firstEventMs": 0,
+  "lastEventMs": 48614
+ },
+ {
+  "visitId": "4182003116616974407",
+  "userIdHash": "2826120614",
+  "dateTime": "2026-07-23 18:24:35",
+  "durationSec": "51",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 58,
+   "windowfocus": 1,
+   "mousemove": 63,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 139,
+  "firstEventMs": 0,
+  "lastEventMs": 51859
+ },
+ {
+  "visitId": "4182001185359659124",
+  "userIdHash": "3046889652",
+  "dateTime": "2026-07-23 18:24:28",
+  "durationSec": "54",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 52,
+   "windowfocus": 1,
+   "mousemove": 73,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 143,
+  "firstEventMs": 0,
+  "lastEventMs": 54655
+ },
+ {
+  "visitId": "4181997775280406774",
+  "userIdHash": "1626939826",
+  "dateTime": "2026-07-23 18:24:15",
+  "durationSec": "46",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 54,
+   "windowfocus": 1,
+   "mousemove": 62,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 134,
+  "firstEventMs": 0,
+  "lastEventMs": 46980
+ },
+ {
+  "visitId": "4181996746940350676",
+  "userIdHash": "2702867837",
+  "dateTime": "2026-07-23 18:24:11",
+  "durationSec": "49",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 53,
+   "windowfocus": 1,
+   "mousemove": 46,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 117,
+  "firstEventMs": 0,
+  "lastEventMs": 49220
+ },
+ {
+  "visitId": "4181995539290390846",
+  "userIdHash": "2042283006",
+  "dateTime": "2026-07-23 18:24:06",
+  "durationSec": "55",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 57,
+   "windowfocus": 1,
+   "mousemove": 69,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 144,
+  "firstEventMs": 0,
+  "lastEventMs": 55049
+ },
+ {
+  "visitId": "4181991916905169023",
+  "userIdHash": "3190679866",
+  "dateTime": "2026-07-23 18:23:53",
+  "durationSec": "56",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 51,
+   "windowfocus": 1,
+   "mousemove": 67,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 136,
+  "firstEventMs": 0,
+  "lastEventMs": 56068
+ },
+ {
+  "visitId": "4181990458289553553",
+  "userIdHash": "3177753164",
+  "dateTime": "2026-07-23 18:23:47",
+  "durationSec": "49",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 59,
+   "windowfocus": 1,
+   "mousemove": 63,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 140,
+  "firstEventMs": 0,
+  "lastEventMs": 49690
+ },
+ {
+  "visitId": "4181989924245078093",
+  "userIdHash": "21697805",
+  "dateTime": "2026-07-23 18:23:45",
+  "durationSec": "54",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 52,
+   "windowfocus": 1,
+   "mousemove": 71,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 141,
+  "firstEventMs": 0,
+  "lastEventMs": 54504
+ },
+ {
+  "visitId": "4181989729835941911",
+  "userIdHash": "2642970005",
+  "dateTime": "2026-07-23 18:23:44",
+  "durationSec": "51",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 60,
+   "windowfocus": 1,
+   "mousemove": 83,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 161,
+  "firstEventMs": 0,
+  "lastEventMs": 51464
+ },
+ {
+  "visitId": "4181989471324733457",
+  "userIdHash": "943088298",
+  "dateTime": "2026-07-23 18:23:43",
+  "durationSec": "51",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 2,
+   "mousemove": 60,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 134,
+  "firstEventMs": 0,
+  "lastEventMs": 51958
+ },
+ {
+  "visitId": "4181988637312024850",
+  "userIdHash": "470755264",
+  "dateTime": "2026-07-23 18:23:40",
+  "durationSec": "54",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 57,
+   "windowfocus": 1,
+   "mousemove": 85,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 160,
+  "firstEventMs": 0,
+  "lastEventMs": 54881
+ },
+ {
+  "visitId": "4181988288944668886",
+  "userIdHash": "1131091135",
+  "dateTime": "2026-07-23 18:23:39",
+  "durationSec": "48",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 31,
+   "windowfocus": 1,
+   "mousemove": 70,
+   "mousedown": 2,
+   "mouseup": 2,
+   "click": 2,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 112,
+  "firstEventMs": 0,
+  "lastEventMs": 48804
+ },
+ {
+  "visitId": "4181984719052472536",
+  "userIdHash": "3469789155",
+  "dateTime": "2026-07-23 18:23:25",
+  "durationSec": "49",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 62,
+   "windowfocus": 1,
+   "mousemove": 77,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 157,
+  "firstEventMs": 0,
+  "lastEventMs": 49422
+ },
+ {
+  "visitId": "4181982334758945016",
+  "userIdHash": "284268956",
+  "dateTime": "2026-07-23 18:23:16",
+  "durationSec": "54",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 70,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 143,
+  "firstEventMs": 0,
+  "lastEventMs": 54596
+ },
+ {
+  "visitId": "4181982053400314166",
+  "userIdHash": "2432517180",
+  "dateTime": "2026-07-23 18:23:15",
+  "durationSec": "51",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 58,
+   "windowfocus": 1,
+   "mousemove": 60,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 136,
+  "firstEventMs": 0,
+  "lastEventMs": 51064
+ },
+ {
+  "visitId": "4181978337340293336",
+  "userIdHash": "2465261910",
+  "dateTime": "2026-07-23 18:23:01",
+  "durationSec": "51",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "yes",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 57,
+   "windowfocus": 1,
+   "mousemove": 75,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 150,
+  "firstEventMs": 0,
+  "lastEventMs": 51361
+ },
+ {
+  "visitId": "4181975908341252467",
+  "userIdHash": "2829911089",
+  "dateTime": "2026-07-23 18:22:52",
+  "durationSec": "51",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 1,
+   "mousemove": 53,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 127,
+  "firstEventMs": 0,
+  "lastEventMs": 51370
+ },
+ {
+  "visitId": "4181975865382142253",
+  "userIdHash": "2557635520",
+  "dateTime": "2026-07-23 18:22:51",
+  "durationSec": "53",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 49,
+   "windowfocus": 1,
+   "mousemove": 73,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 140,
+  "firstEventMs": 0,
+  "lastEventMs": 53182
+ },
+ {
+  "visitId": "4181974630154895600",
+  "userIdHash": "1239760481",
+  "dateTime": "2026-07-23 18:22:47",
+  "durationSec": "59",
+  "pageViews": "1",
+  "webVisorActivity": "3",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 88,
+   "mousedown": 9,
+   "mouseup": 9,
+   "click": 9,
+   "focus": 6,
+   "blur": 6,
+   "change": 136,
+   "keystroke": 13,
+   "submit": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 337,
+  "firstEventMs": 0,
+  "lastEventMs": 59961
+ },
+ {
+  "visitId": "4181974676801847746",
+  "userIdHash": "4149296919",
+  "dateTime": "2026-07-23 18:22:47",
+  "durationSec": "56",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 53,
+   "windowfocus": 1,
+   "mousemove": 92,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 163,
+  "firstEventMs": 0,
+  "lastEventMs": 56999
+ },
+ {
+  "visitId": "4181974316268912859",
+  "userIdHash": "1896641007",
+  "dateTime": "2026-07-23 18:22:45",
+  "durationSec": "54",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 99,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 172,
+  "firstEventMs": 0,
+  "lastEventMs": 54288
+ },
+ {
+  "visitId": "4181973941146878030",
+  "userIdHash": "1973008932",
+  "dateTime": "2026-07-23 18:22:44",
+  "durationSec": "54",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 57,
+   "windowfocus": 1,
+   "mousemove": 72,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 147,
+  "firstEventMs": 0,
+  "lastEventMs": 54322
+ },
+ {
+  "visitId": "4181971775187845336",
+  "userIdHash": "1663029958",
+  "dateTime": "2026-07-23 18:22:36",
+  "durationSec": "38",
+  "pageViews": "1",
+  "webVisorActivity": "1",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 28,
+   "windowfocus": 1,
+   "mousemove": 55,
+   "mousedown": 1,
+   "mouseup": 1,
+   "click": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 91,
+  "firstEventMs": 0,
+  "lastEventMs": 38848
+ },
+ {
+  "visitId": "4181969797080416306",
+  "userIdHash": "503582884",
+  "dateTime": "2026-07-23 18:22:28",
+  "durationSec": "56",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 78,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 151,
+  "firstEventMs": 0,
+  "lastEventMs": 56579
+ },
+ {
+  "visitId": "4181967176658321612",
+  "userIdHash": "2823806983",
+  "dateTime": "2026-07-23 18:22:18",
+  "durationSec": "57",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 53,
+   "windowfocus": 1,
+   "mousemove": 79,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 150,
+  "firstEventMs": 0,
+  "lastEventMs": 57448
+ },
+ {
+  "visitId": "4181963076560224266",
+  "userIdHash": "98253290",
+  "dateTime": "2026-07-23 18:22:03",
+  "durationSec": "57",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 78,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 151,
+  "firstEventMs": 0,
+  "lastEventMs": 57827
+ },
+ {
+  "visitId": "4181962629195759754",
+  "userIdHash": "3902771947",
+  "dateTime": "2026-07-23 18:22:01",
+  "durationSec": "50",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 54,
+   "windowfocus": 1,
+   "mousemove": 95,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 167,
+  "firstEventMs": 0,
+  "lastEventMs": 50230
+ },
+ {
+  "visitId": "4181962111607111757",
+  "userIdHash": "4089887733",
+  "dateTime": "2026-07-23 18:21:59",
+  "durationSec": "52",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 57,
+   "windowfocus": 1,
+   "mousemove": 84,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 159,
+  "firstEventMs": 0,
+  "lastEventMs": 52054
+ },
+ {
+  "visitId": "4181960983054385213",
+  "userIdHash": "3496642959",
+  "dateTime": "2026-07-23 18:21:55",
+  "durationSec": "50",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 2,
+   "mousemove": 67,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 142,
+  "firstEventMs": 0,
+  "lastEventMs": 50506
+ },
+ {
+  "visitId": "4181960651905433706",
+  "userIdHash": "3061558367",
+  "dateTime": "2026-07-23 18:21:53",
+  "durationSec": "24",
+  "pageViews": "1",
+  "webVisorActivity": "1",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 5,
+   "windowfocus": 1,
+   "mousemove": 40,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 50,
+  "firstEventMs": 0,
+  "lastEventMs": 24474
+ },
+ {
+  "visitId": "4181959940625137716",
+  "userIdHash": "57574173",
+  "dateTime": "2026-07-23 18:21:51",
+  "durationSec": "55",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 60,
+   "windowfocus": 1,
+   "mousemove": 84,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 162,
+  "firstEventMs": 0,
+  "lastEventMs": 55783
+ },
+ {
+  "visitId": "4181959672449990959",
+  "userIdHash": "3099446810",
+  "dateTime": "2026-07-23 18:21:50",
+  "durationSec": "56",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 66,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 139,
+  "firstEventMs": 0,
+  "lastEventMs": 56645
+ },
+ {
+  "visitId": "4181957682857509006",
+  "userIdHash": "1902862874",
+  "dateTime": "2026-07-23 18:21:42",
+  "durationSec": "61",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 59,
+   "windowfocus": 1,
+   "mousemove": 74,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 151,
+  "firstEventMs": 0,
+  "lastEventMs": 61633
+ },
+ {
+  "visitId": "4181957230545338467",
+  "userIdHash": "2575170031",
+  "dateTime": "2026-07-23 18:21:40",
+  "durationSec": "55",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 60,
+   "windowfocus": 1,
+   "mousemove": 66,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 144,
+  "firstEventMs": 0,
+  "lastEventMs": 55024
+ },
+ {
+  "visitId": "4181956026020397391",
+  "userIdHash": "3434126852",
+  "dateTime": "2026-07-23 18:21:36",
+  "durationSec": "52",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 52,
+   "windowfocus": 1,
+   "mousemove": 71,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 141,
+  "firstEventMs": 0,
+  "lastEventMs": 52106
+ },
+ {
+  "visitId": "4181951959121527030",
+  "userIdHash": "3409065865",
+  "dateTime": "2026-07-23 18:21:20",
+  "durationSec": "21",
+  "pageViews": "1",
+  "webVisorActivity": "1",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 6,
+   "windowfocus": 1,
+   "mousemove": 27,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 38,
+  "firstEventMs": 0,
+  "lastEventMs": 21470
+ },
+ {
+  "visitId": "4181951682421719115",
+  "userIdHash": "452265771",
+  "dateTime": "2026-07-23 18:21:19",
+  "durationSec": "43",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 28,
+   "windowfocus": 1,
+   "mousemove": 87,
+   "mousedown": 3,
+   "mouseup": 3,
+   "click": 3,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 129,
+  "firstEventMs": 0,
+  "lastEventMs": 43123
+ },
+ {
+  "visitId": "4181948876776013854",
+  "userIdHash": "4106930689",
+  "dateTime": "2026-07-23 18:21:08",
+  "durationSec": "50",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 1,
+   "mousemove": 65,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 139,
+  "firstEventMs": 0,
+  "lastEventMs": 50093
+ },
+ {
+  "visitId": "4181947283250610650",
+  "userIdHash": "427471711",
+  "dateTime": "2026-07-23 18:21:02",
+  "durationSec": "58",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 1,
+   "mousemove": 67,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 141,
+  "firstEventMs": 0,
+  "lastEventMs": 58125
+ },
+ {
+  "visitId": "4181947005355425856",
+  "userIdHash": "4097171858",
+  "dateTime": "2026-07-23 18:21:01",
+  "durationSec": "52",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 53,
+   "windowfocus": 1,
+   "mousemove": 81,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 152,
+  "firstEventMs": 0,
+  "lastEventMs": 52934
+ },
+ {
+  "visitId": "4181946416830873748",
+  "userIdHash": "1721421830",
+  "dateTime": "2026-07-23 18:20:59",
+  "durationSec": "53",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 93,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 166,
+  "firstEventMs": 0,
+  "lastEventMs": 53982
+ },
+ {
+  "visitId": "4181945958238781558",
+  "userIdHash": "626309946",
+  "dateTime": "2026-07-23 18:20:57",
+  "durationSec": "51",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 52,
+   "windowfocus": 1,
+   "mousemove": 70,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 140,
+  "firstEventMs": 0,
+  "lastEventMs": 51929
+ },
+ {
+  "visitId": "4181944879849406634",
+  "userIdHash": "1780973203",
+  "dateTime": "2026-07-23 18:20:53",
+  "durationSec": "57",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 76,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 149,
+  "firstEventMs": 0,
+  "lastEventMs": 57060
+ },
+ {
+  "visitId": "4181943009817657557",
+  "userIdHash": "350470676",
+  "dateTime": "2026-07-23 18:20:46",
+  "durationSec": "53",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 1,
+   "mousemove": 70,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 144,
+  "firstEventMs": 0,
+  "lastEventMs": 53904
+ },
+ {
+  "visitId": "4181942788508614804",
+  "userIdHash": "504631570",
+  "dateTime": "2026-07-23 18:20:45",
+  "durationSec": "34",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 24,
+   "windowfocus": 1,
+   "mousemove": 49,
+   "mousedown": 3,
+   "mouseup": 3,
+   "click": 3,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 87,
+  "firstEventMs": 0,
+  "lastEventMs": 34623
+ },
+ {
+  "visitId": "4181942856400503209",
+  "userIdHash": "1218997163",
+  "dateTime": "2026-07-23 18:20:45",
+  "durationSec": "49",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 51,
+   "windowfocus": 1,
+   "mousemove": 62,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 131,
+  "firstEventMs": 0,
+  "lastEventMs": 49887
+ },
+ {
+  "visitId": "4181941539558392305",
+  "userIdHash": "2232266129",
+  "dateTime": "2026-07-23 18:20:40",
+  "durationSec": "20",
+  "pageViews": "1",
+  "webVisorActivity": "1",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 3,
+   "windowfocus": 1,
+   "mousemove": 33,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 41,
+  "firstEventMs": 0,
+  "lastEventMs": 20439
+ },
+ {
+  "visitId": "4181940095680774289",
+  "userIdHash": "3530967520",
+  "dateTime": "2026-07-23 18:20:35",
+  "durationSec": "43",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 2,
+   "mousemove": 54,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 129,
+  "firstEventMs": 0,
+  "lastEventMs": 43836
+ },
+ {
+  "visitId": "4181935107941859419",
+  "userIdHash": "3181699426",
+  "dateTime": "2026-07-23 18:20:16",
+  "durationSec": "52",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 52,
+   "windowfocus": 1,
+   "mousemove": 67,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 137,
+  "firstEventMs": 0,
+  "lastEventMs": 52160
+ },
+ {
+  "visitId": "4181929792682328415",
+  "userIdHash": "796000824",
+  "dateTime": "2026-07-23 18:19:56",
+  "durationSec": "49",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 52,
+   "windowfocus": 1,
+   "mousemove": 76,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 146,
+  "firstEventMs": 0,
+  "lastEventMs": 49440
+ },
+ {
+  "visitId": "4181929795461840967",
+  "userIdHash": "2795489183",
+  "dateTime": "2026-07-23 18:19:56",
+  "durationSec": "61",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 1,
+   "mousemove": 84,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 158,
+  "firstEventMs": 0,
+  "lastEventMs": 61297
+ },
+ {
+  "visitId": "4181929795942351141",
+  "userIdHash": "695285033",
+  "dateTime": "2026-07-23 18:19:56",
+  "durationSec": "62",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 56,
+   "windowfocus": 1,
+   "mousemove": 94,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 168,
+  "firstEventMs": 0,
+  "lastEventMs": 62997
+ },
+ {
+  "visitId": "4181929796799299758",
+  "userIdHash": "2740339694",
+  "dateTime": "2026-07-23 18:19:56",
+  "durationSec": "57",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 58,
+   "windowfocus": 2,
+   "mousemove": 74,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 151,
+  "firstEventMs": 0,
+  "lastEventMs": 57134
+ },
+ {
+  "visitId": "4181929796831281345",
+  "userIdHash": "658164934",
+  "dateTime": "2026-07-23 18:19:56",
+  "durationSec": "19",
+  "pageViews": "1",
+  "webVisorActivity": "1",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 5,
+   "windowfocus": 1,
+   "mousemove": 20,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 30,
+  "firstEventMs": 0,
+  "lastEventMs": 19833
+ },
+ {
+  "visitId": "4181929797475107165",
+  "userIdHash": "2724551944",
+  "dateTime": "2026-07-23 18:19:56",
+  "durationSec": "49",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 61,
+   "windowfocus": 1,
+   "mousemove": 87,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 166,
+  "firstEventMs": 0,
+  "lastEventMs": 49971
+ },
+ {
+  "visitId": "4181929809666375699",
+  "userIdHash": "3839891701",
+  "dateTime": "2026-07-23 18:19:56",
+  "durationSec": "38",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 25,
+   "windowfocus": 1,
+   "mousemove": 51,
+   "mousedown": 2,
+   "mouseup": 2,
+   "click": 2,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 87,
+  "firstEventMs": 0,
+  "lastEventMs": 38873
+ },
+ {
+  "visitId": "4181929810599870538",
+  "userIdHash": "3928234698",
+  "dateTime": "2026-07-23 18:19:56",
+  "durationSec": "49",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 55,
+   "windowfocus": 1,
+   "mousemove": 50,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 123,
+  "firstEventMs": 0,
+  "lastEventMs": 49118
+ },
+ {
+  "visitId": "4181929811024019723",
+  "userIdHash": "4206277581",
+  "dateTime": "2026-07-23 18:19:56",
+  "durationSec": "44",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 58,
+   "windowfocus": 1,
+   "mousemove": 71,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 147,
+  "firstEventMs": 0,
+  "lastEventMs": 44342
+ },
+ {
+  "visitId": "4181929811072778295",
+  "userIdHash": "3866307555",
+  "dateTime": "2026-07-23 18:19:56",
+  "durationSec": "66",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 58,
+   "windowfocus": 1,
+   "mousemove": 97,
+   "mousedown": 4,
+   "mouseup": 4,
+   "click": 4,
+   "focus": 1,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 173,
+  "firstEventMs": 0,
+  "lastEventMs": 66199
+ },
+ {
+  "visitId": "4181928554687627277",
+  "userIdHash": "1561180798",
+  "dateTime": "2026-07-23 18:19:51",
+  "durationSec": "2",
+  "pageViews": "1",
+  "webVisorActivity": "2",
+  "webVisorViewed": "no",
+  "webVisorVersion": "2",
+  "browser": {
+   "name": "Google Chrome",
+   "id": "6",
+   "icon_id": "6",
+   "icon_type": "browser"
+  },
+  "operatingSystem": {
+   "name": "Windows 10 (и последующие)",
+   "id": "225",
+   "icon_id": "225",
+   "icon_type": "os",
+   "root": "100"
+  },
+  "deviceCategory": {
+   "name": "ПК",
+   "id": "desktop",
+   "icon_id": "desktop",
+   "icon_type": "device"
+  },
+  "region": [
+   "Россия",
+   "Москва и Московская область",
+   "Москва"
+  ],
+  "screenResolution": "1280x720",
+  "startURL": "https://corvus278.naition.sortedmap.ru/",
+  "endURL": "https://corvus278.naition.sortedmap.ru/",
+  "trafficSource": "Прямые заходы",
+  "searchEngine": null,
+  "searchPhrase": null,
+  "refererDomain": null,
+  "network": null,
+  "daysSincePreviousVisit": null,
+  "labels": [],
+  "webVisorGoals": null,
+  "activityEventCounts": {
+   "resize": 1,
+   "scroll": 26,
+   "windowfocus": 1,
+   "click": 7,
+   "windowblur": 1,
+   "eof": 2
+  },
+  "totalActivityEvents": 38,
+  "firstEventMs": 0,
+  "lastEventMs": 3687
+ }
+]

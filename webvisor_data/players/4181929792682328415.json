@@ -1,0 +1,646 @@
+{
+ "visitId": "4181929792682328415",
+ "userIdHash": "796000824",
+ "dateTime": "2026-07-23 18:19:56",
+ "durationSec": "49",
+ "pageViews": "1",
+ "webVisorActivity": "2",
+ "webVisorViewed": "no",
+ "webVisorVersion": "2",
+ "browser": {
+  "name": "Google Chrome",
+  "id": "6",
+  "icon_id": "6",
+  "icon_type": "browser"
+ },
+ "operatingSystem": {
+  "name": "Windows 10 (и последующие)",
+  "id": "225",
+  "icon_id": "225",
+  "icon_type": "os",
+  "root": "100"
+ },
+ "deviceCategory": {
+  "name": "ПК",
+  "id": "desktop",
+  "icon_id": "desktop",
+  "icon_type": "device"
+ },
+ "region": [
+  "Россия",
+  "Москва и Московская область",
+  "Москва"
+ ],
+ "screenResolution": "1280x720",
+ "startURL": "https://corvus278.naition.sortedmap.ru/",
+ "endURL": "https://corvus278.naition.sortedmap.ru/",
+ "trafficSource": "Прямые заходы",
+ "searchEngine": null,
+ "searchPhrase": null,
+ "refererDomain": null,
+ "network": null,
+ "daysSincePreviousVisit": null,
+ "labels": [],
+ "webVisorGoals": null,
+ "activityEventCounts": {
+  "resize": 1,
+  "scroll": 52,
+  "windowfocus": 1,
+  "mousemove": 76,
+  "mousedown": 4,
+  "mouseup": 4,
+  "click": 4,
+  "focus": 1,
+  "windowblur": 1,
+  "eof": 2
+ },
+ "totalActivityEvents": 146,
+ "firstEventMs": 0,
+ "lastEventMs": 49440,
+ "activityEvents": [
+  {
+   "name": "resize",
+   "stamp": 0
+  },
+  {
+   "name": "scroll",
+   "stamp": 0
+  },
+  {
+   "name": "windowfocus",
+   "stamp": 3
+  },
+  {
+   "name": "mousemove",
+   "stamp": 1979
+  },
+  {
+   "name": "mousemove",
+   "stamp": 2085
+  },
+  {
+   "name": "mousemove",
+   "stamp": 2201
+  },
+  {
+   "name": "mousemove",
+   "stamp": 2301
+  },
+  {
+   "name": "mousemove",
+   "stamp": 2418
+  },
+  {
+   "name": "mousemove",
+   "stamp": 3109
+  },
+  {
+   "name": "mousemove",
+   "stamp": 3218
+  },
+  {
+   "name": "mousemove",
+   "stamp": 3318
+  },
+  {
+   "name": "mousemove",
+   "stamp": 3418
+  },
+  {
+   "name": "mousemove",
+   "stamp": 3518
+  },
+  {
+   "name": "mousemove",
+   "stamp": 3618
+  },
+  {
+   "name": "mousemove",
+   "stamp": 3752
+  },
+  {
+   "name": "mousemove",
+   "stamp": 16015
+  },
+  {
+   "name": "mousemove",
+   "stamp": 16117
+  },
+  {
+   "name": "mousemove",
+   "stamp": 16217
+  },
+  {
+   "name": "mousemove",
+   "stamp": 16368
+  },
+  {
+   "name": "mousemove",
+   "stamp": 17351
+  },
+  {
+   "name": "mousemove",
+   "stamp": 17451
+  },
+  {
+   "name": "mousemove",
+   "stamp": 17567
+  },
+  {
+   "name": "mousemove",
+   "stamp": 17667
+  },
+  {
+   "name": "mousemove",
+   "stamp": 17767
+  },
+  {
+   "name": "mousemove",
+   "stamp": 17869
+  },
+  {
+   "name": "mousemove",
+   "stamp": 17988
+  },
+  {
+   "name": "scroll",
+   "stamp": 18970
+  },
+  {
+   "name": "scroll",
+   "stamp": 19084
+  },
+  {
+   "name": "scroll",
+   "stamp": 19185
+  },
+  {
+   "name": "scroll",
+   "stamp": 20051
+  },
+  {
+   "name": "scroll",
+   "stamp": 20234
+  },
+  {
+   "name": "scroll",
+   "stamp": 20301
+  },
+  {
+   "name": "scroll",
+   "stamp": 20451
+  },
+  {
+   "name": "scroll",
+   "stamp": 20551
+  },
+  {
+   "name": "scroll",
+   "stamp": 21101
+  },
+  {
+   "name": "scroll",
+   "stamp": 21217
+  },
+  {
+   "name": "scroll",
+   "stamp": 21317
+  },
+  {
+   "name": "scroll",
+   "stamp": 21417
+  },
+  {
+   "name": "scroll",
+   "stamp": 21517
+  },
+  {
+   "name": "scroll",
+   "stamp": 21617
+  },
+  {
+   "name": "scroll",
+   "stamp": 21717
+  },
+  {
+   "name": "scroll",
+   "stamp": 21817
+  },
+  {
+   "name": "scroll",
+   "stamp": 21918
+  },
+  {
+   "name": "mousemove",
+   "stamp": 22035
+  },
+  {
+   "name": "scroll",
+   "stamp": 22036
+  },
+  {
+   "name": "mousemove",
+   "stamp": 22151
+  },
+  {
+   "name": "scroll",
+   "stamp": 22151
+  },
+  {
+   "name": "mousemove",
+   "stamp": 22251
+  },
+  {
+   "name": "scroll",
+   "stamp": 22251
+  },
+  {
+   "name": "scroll",
+   "stamp": 22351
+  },
+  {
+   "name": "mousemove",
+   "stamp": 22367
+  },
+  {
+   "name": "scroll",
+   "stamp": 22451
+  },
+  {
+   "name": "mousemove",
+   "stamp": 22467
+  },
+  {
+   "name": "mousemove",
+   "stamp": 22567
+  },
+  {
+   "name": "scroll",
+   "stamp": 22602
+  },
+  {
+   "name": "mousemove",
+   "stamp": 22701
+  },
+  {
+   "name": "mousemove",
+   "stamp": 23412
+  },
+  {
+   "name": "mousemove",
+   "stamp": 23517
+  },
+  {
+   "name": "mousemove",
+   "stamp": 23617
+  },
+  {
+   "name": "mousemove",
+   "stamp": 23717
+  },
+  {
+   "name": "mousemove",
+   "stamp": 23817
+  },
+  {
+   "name": "mousemove",
+   "stamp": 23950
+  },
+  {
+   "name": "mousemove",
+   "stamp": 24704
+  },
+  {
+   "name": "mousemove",
+   "stamp": 24817
+  },
+  {
+   "name": "mousemove",
+   "stamp": 24918
+  },
+  {
+   "name": "mousemove",
+   "stamp": 25034
+  },
+  {
+   "name": "mousemove",
+   "stamp": 25201
+  },
+  {
+   "name": "mousemove",
+   "stamp": 32749
+  },
+  {
+   "name": "mousemove",
+   "stamp": 32850
+  },
+  {
+   "name": "mousemove",
+   "stamp": 32950
+  },
+  {
+   "name": "mousemove",
+   "stamp": 33050
+  },
+  {
+   "name": "mousemove",
+   "stamp": 33150
+  },
+  {
+   "name": "mousemove",
+   "stamp": 33267
+  },
+  {
+   "name": "mousemove",
+   "stamp": 33707
+  },
+  {
+   "name": "mousemove",
+   "stamp": 33817
+  },
+  {
+   "name": "mousemove",
+   "stamp": 33933
+  },
+  {
+   "name": "mousemove",
+   "stamp": 34034
+  },
+  {
+   "name": "mousemove",
+   "stamp": 34150
+  },
+  {
+   "name": "mousemove",
+   "stamp": 34250
+  },
+  {
+   "name": "mousemove",
+   "stamp": 34368
+  },
+  {
+   "name": "mousemove",
+   "stamp": 35009
+  },
+  {
+   "name": "mousemove",
+   "stamp": 35117
+  },
+  {
+   "name": "mousemove",
+   "stamp": 35217
+  },
+  {
+   "name": "mousemove",
+   "stamp": 35367
+  },
+  {
+   "name": "mousemove",
+   "stamp": 35718
+  },
+  {
+   "name": "mousemove",
+   "stamp": 35834
+  },
+  {
+   "name": "mousemove",
+   "stamp": 35934
+  },
+  {
+   "name": "mousemove",
+   "stamp": 36034
+  },
+  {
+   "name": "mousemove",
+   "stamp": 36150
+  },
+  {
+   "name": "mousemove",
+   "stamp": 36250
+  },
+  {
+   "name": "mousemove",
+   "stamp": 36351
+  },
+  {
+   "name": "mousemove",
+   "stamp": 36743
+  },
+  {
+   "name": "mousemove",
+   "stamp": 36843
+  },
+  {
+   "name": "mousedown",
+   "stamp": 37128
+  },
+  {
+   "name": "mouseup",
+   "stamp": 37130
+  },
+  {
+   "name": "click",
+   "stamp": 37131
+  },
+  {
+   "name": "mousedown",
+   "stamp": 38398
+  },
+  {
+   "name": "mouseup",
+   "stamp": 38399
+  },
+  {
+   "name": "click",
+   "stamp": 38399
+  },
+  {
+   "name": "mousedown",
+   "stamp": 39406
+  },
+  {
+   "name": "mouseup",
+   "stamp": 39407
+  },
+  {
+   "name": "click",
+   "stamp": 39407
+  },
+  {
+   "name": "scroll",
+   "stamp": 39833
+  },
+  {
+   "name": "scroll",
+   "stamp": 39933
+  },
+  {
+   "name": "scroll",
+   "stamp": 40033
+  },
+  {
+   "name": "scroll",
+   "stamp": 40133
+  },
+  {
+   "name": "scroll",
+   "stamp": 40233
+  },
+  {
+   "name": "scroll",
+   "stamp": 40333
+  },
+  {
+   "name": "scroll",
+   "stamp": 40433
+  },
+  {
+   "name": "scroll",
+   "stamp": 40533
+  },
+  {
+   "name": "scroll",
+   "stamp": 40633
+  },
+  {
+   "name": "scroll",
+   "stamp": 40733
+  },
+  {
+   "name": "scroll",
+   "stamp": 40833
+  },
+  {
+   "name": "scroll",
+   "stamp": 40933
+  },
+  {
+   "name": "scroll",
+   "stamp": 41033
+  },
+  {
+   "name": "scroll",
+   "stamp": 41134
+  },
+  {
+   "name": "scroll",
+   "stamp": 41250
+  },
+  {
+   "name": "scroll",
+   "stamp": 41350
+  },
+  {
+   "name": "scroll",
+   "stamp": 41450
+  },
+  {
+   "name": "scroll",
+   "stamp": 41550
+  },
+  {
+   "name": "scroll",
+   "stamp": 41650
+  },
+  {
+   "name": "scroll",
+   "stamp": 41750
+  },
+  {
+   "name": "mousemove",
+   "stamp": 41800
+  },
+  {
+   "name": "mousemove",
+   "stamp": 41933
+  },
+  {
+   "name": "scroll",
+   "stamp": 41950
+  },
+  {
+   "name": "mousemove",
+   "stamp": 42376
+  },
+  {
+   "name": "mousemove",
+   "stamp": 42483
+  },
+  {
+   "name": "mousemove",
+   "stamp": 42583
+  },
+  {
+   "name": "mousemove",
+   "stamp": 42683
+  },
+  {
+   "name": "mousemove",
+   "stamp": 42783
+  },
+  {
+   "name": "scroll",
+   "stamp": 44666
+  },
+  {
+   "name": "mousemove",
+   "stamp": 44690
+  },
+  {
+   "name": "mousedown",
+   "stamp": 44691
+  },
+  {
+   "name": "focus",
+   "stamp": 44693
+  },
+  {
+   "name": "mouseup",
+   "stamp": 44694
+  },
+  {
+   "name": "click",
+   "stamp": 44694
+  },
+  {
+   "name": "scroll",
+   "stamp": 44766
+  },
+  {
+   "name": "mousemove",
+   "stamp": 44790
+  },
+  {
+   "name": "scroll",
+   "stamp": 44866
+  },
+  {
+   "name": "scroll",
+   "stamp": 44966
+  },
+  {
+   "name": "scroll",
+   "stamp": 45066
+  },
+  {
+   "name": "scroll",
+   "stamp": 45350
+  },
+  {
+   "name": "scroll",
+   "stamp": 46083
+  },
+  {
+   "name": "windowblur",
+   "stamp": 49439
+  },
+  {
+   "name": "eof",
+   "stamp": 49440
+  },
+  {
+   "name": "eof",
+   "stamp": 49440
+  }
+ ]
+}
