@@ -122,6 +122,26 @@ img {
     color: var(--heading);
 }
 
+.hero-cta {
+    margin-top: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 16px 22px;
+}
+
+.btn-hero {
+    padding: 17px 38px;
+    font-size: 1.12rem;
+    box-shadow: 0 10px 26px rgba(45, 52, 54, 0.14);
+}
+
+.hero-cta-note {
+    font-size: 0.95rem;
+    color: var(--heading);
+    opacity: 0.85;
+}
+
 .features-grid,
 .injury-grid,
 .instructors-grid,
@@ -192,6 +212,44 @@ img {
 .program-intro {
     margin-bottom: 28px;
     font-size: 1.05rem;
+}
+
+.program-module summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px;
+    cursor: pointer;
+    list-style: none;
+}
+
+.program-module summary::-webkit-details-marker {
+    display: none;
+}
+
+.program-module summary h3 {
+    margin: 0;
+}
+
+.program-module summary::after {
+    content: "+";
+    flex: none;
+    font-size: 1.7rem;
+    line-height: 1;
+    color: var(--heading);
+    transition: transform 0.2s ease;
+}
+
+.program-module[open] summary {
+    margin-bottom: 16px;
+}
+
+.program-module[open] summary::after {
+    content: "–";
+}
+
+.program-module p {
+    margin: 0;
 }
 
 .injury-grid {
@@ -381,6 +439,58 @@ img {
     outline: none;
     border-color: var(--blue);
     box-shadow: 0 0 0 4px rgba(184, 212, 227, 0.35);
+}
+
+.purpose-chips {
+    border: none;
+    margin: 0;
+    padding: 0;
+}
+
+.purpose-chips legend {
+    font-weight: 600;
+    color: var(--heading);
+    margin-bottom: 12px;
+    padding: 0;
+}
+
+.purpose-chips .optional {
+    font-weight: 400;
+    opacity: 0.6;
+}
+
+.purpose-chips .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin: 0 8px 8px 0;
+    padding: 10px 18px;
+    border: 1px solid #d8d2cb;
+    border-radius: 999px;
+    font-weight: 500;
+    white-space: nowrap;
+    cursor: pointer;
+    transition: border-color 0.2s ease, background 0.2s ease;
+}
+
+.purpose-chips .chip input[type="radio"] {
+    width: auto;
+    flex: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+    border-radius: 0;
+    box-shadow: none;
+    accent-color: var(--blue);
+}
+
+.purpose-chips .chip:hover {
+    border-color: var(--blue);
+}
+
+.purpose-chips .chip:has(input:checked) {
+    border-color: var(--blue);
+    background: var(--mint);
 }
 
 .registration-trust {
