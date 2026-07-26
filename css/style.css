@@ -61,7 +61,7 @@ img {
         radial-gradient(circle at top right, rgba(184, 212, 227, 0.45), transparent 35%),
         radial-gradient(circle at bottom left, rgba(245, 198, 214, 0.35), transparent 30%),
         var(--bg-main);
-    padding: 80px 0 96px;
+    padding: 56px 0 64px;
 }
 
 .hero-content {
@@ -86,7 +86,7 @@ img {
 }
 
 .hero-text {
-    margin: 0 0 32px;
+    margin: 0 0 24px;
     font-size: 1.15rem;
     max-width: 680px;
 }
@@ -94,8 +94,8 @@ img {
 .meta-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-    gap: 18px;
-    margin-top: 40px;
+    gap: 14px;
+    margin-top: 28px;
 }
 
 .meta-card {
@@ -114,9 +114,27 @@ img {
     letter-spacing: 0.04em;
 }
 
+.meta-card-price strong {
+    color: #1f6b3a;
+}
+
+.hero-cta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 14px 20px;
+    margin: 0;
+}
+
+.hero-cta-note {
+    max-width: 320px;
+    font-size: 0.95rem;
+    color: #5c5c5c;
+}
+
 .hero-note {
-    margin-top: 36px;
-    padding: 24px 28px;
+    margin-top: 28px;
+    padding: 20px 24px;
     border-radius: 18px;
     background: var(--peach);
     color: var(--heading);
@@ -160,18 +178,14 @@ img {
     color: var(--heading);
 }
 
+/* Карточки без собственного действия не притворяются кликабельными:
+   ни курсора-руки, ни подъёма при наведении. Отклик на наведение остаётся
+   только у элементов с реальным обработчиком (кнопки, .module-more summary). */
 .feature-card,
 .program-module,
 .injury-card {
-    cursor: pointer;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.feature-card:hover,
-.program-module:hover,
-.injury-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 16px 36px rgba(45, 52, 54, 0.12);
+    cursor: default;
+    transition: box-shadow 0.2s ease;
 }
 
 .program-list {
@@ -193,6 +207,69 @@ img {
     margin-bottom: 28px;
     font-size: 1.05rem;
 }
+
+.module-lead {
+    margin: 0;
+}
+
+.module-more {
+    margin-top: 14px;
+}
+
+.module-more summary {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    width: fit-content;
+    padding: 6px 14px;
+    border-radius: 999px;
+    background: var(--bg-soft);
+    color: var(--heading);
+    font-weight: 600;
+    font-size: 0.95rem;
+    cursor: pointer;
+    list-style: none;
+    transition: background 0.2s ease;
+}
+
+.module-more summary::-webkit-details-marker {
+    display: none;
+}
+
+.module-more summary::after {
+    content: "▾";
+    font-size: 0.85rem;
+}
+
+.module-more[open] summary::after {
+    content: "▴";
+}
+
+.module-more summary:hover {
+    background: var(--blue);
+}
+
+.module-more p {
+    margin: 14px 0 0;
+}
+
+.inline-cta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 18px;
+    margin-top: 28px;
+    padding: 24px 28px;
+    border-radius: 20px;
+    background: var(--mint);
+    color: var(--heading);
+}
+
+.inline-cta-text {
+    max-width: 620px;
+}
+
 
 .injury-grid {
     grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -227,6 +304,27 @@ img {
     width: 100%;
     height: min(70vh, 560px);
     object-fit: cover;
+}
+
+.proof-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 14px;
+    margin: 0 0 32px;
+}
+
+.proof-item {
+    padding: 16px 18px;
+    border-radius: 16px;
+    background: var(--white);
+    box-shadow: var(--shadow);
+    font-size: 0.95rem;
+}
+
+.proof-item strong {
+    display: block;
+    color: var(--heading);
+    font-size: 1.15rem;
 }
 
 .instructors-grid {
@@ -294,6 +392,11 @@ img {
     transform: scale(1.02);
 }
 
+.pricing-card.selected {
+    border: 2px solid #1f6b3a;
+    box-shadow: 0 16px 36px rgba(31, 107, 58, 0.18);
+}
+
 .price {
     font-size: 2rem;
     color: var(--heading);
@@ -336,6 +439,23 @@ img {
     width: 100%;
 }
 
+/* Акцентные CTA — объявлены после .btn, чтобы перекрывать его фон */
+.btn-hero,
+.btn-inline,
+.btn-submit {
+    background: #1f6b3a;
+    color: var(--white);
+}
+
+.btn-hero {
+    padding: 18px 34px;
+    font-size: 1.08rem;
+}
+
+.btn-inline {
+    white-space: nowrap;
+}
+
 .registration-section {
     background: var(--bg-soft);
 }
@@ -347,6 +467,122 @@ img {
     border-radius: 24px;
     padding: 36px;
     box-shadow: var(--shadow);
+}
+
+.order-summary {
+    margin: 0 0 24px;
+    padding: 20px 22px;
+    border-radius: 18px;
+    background: var(--bg-soft);
+}
+
+.order-row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 8px 0;
+    border-bottom: 1px solid #ded8d0;
+}
+
+.order-row:last-of-type {
+    border-bottom: none;
+}
+
+.order-row span {
+    color: #6c757d;
+    font-size: 0.95rem;
+}
+
+.order-row strong {
+    color: var(--heading);
+    text-align: right;
+}
+
+.order-hint {
+    margin: 12px 0 0;
+    font-size: 0.92rem;
+    color: #6c757d;
+}
+
+.purpose-field {
+    display: grid;
+    gap: 10px;
+}
+
+.purpose-label {
+    font-weight: 600;
+    color: var(--heading);
+}
+
+.purpose-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+
+.purpose-chip {
+    padding: 10px 16px;
+    border: 1px solid #d8d2cb;
+    border-radius: 999px;
+    background: var(--white);
+    color: var(--text);
+    font: inherit;
+    font-size: 0.95rem;
+    cursor: pointer;
+    transition: background 0.2s ease, border-color 0.2s ease;
+}
+
+.purpose-chip:hover {
+    border-color: #1f6b3a;
+}
+
+.purpose-chip.selected {
+    background: var(--mint);
+    border-color: #1f6b3a;
+    color: var(--heading);
+    font-weight: 600;
+}
+
+.purpose-textarea {
+    display: grid;
+    gap: 6px;
+    font-weight: 400;
+}
+
+.purpose-textarea span {
+    font-size: 0.92rem;
+    color: #6c757d;
+}
+
+.btn-submit {
+    background: #1f6b3a;
+    color: var(--white);
+    padding: 16px 28px;
+    font-size: 1.05rem;
+}
+
+.form-legal {
+    margin: 0;
+    font-size: 0.88rem;
+    color: #6c757d;
+}
+
+.form-proof {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 20px;
+    margin-top: 18px;
+    padding-top: 18px;
+    border-top: 1px solid #ece7e1;
+    font-size: 0.92rem;
+    color: #5c5c5c;
+}
+
+.form-proof span::before {
+    content: "✓ ";
+    color: #1f6b3a;
+    font-weight: 700;
 }
 
 .form-grid {
@@ -372,7 +608,7 @@ img {
 }
 
 .form-grid textarea {
-    min-height: 140px;
+    min-height: 76px;
     resize: vertical;
 }
 

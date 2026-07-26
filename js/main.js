@@ -4,8 +4,27 @@ document.addEventListener('DOMContentLoaded', () => {
     const message = document.getElementById('form-message');
     const registerButtons = document.querySelectorAll('.btn-register');
 
+    const orderTariff = document.getElementById('order-tariff');
+    const purposeField = form ? form.querySelector('textarea[name="purpose"]') : null;
+    const purposeChips = document.querySelectorAll('.purpose-chip');
+
     registerButtons.forEach((button) => {
         button.addEventListener('click', () => {
+            const card = button.closest('.pricing-card');
+
+            if (card && orderTariff) {
+                const tariff = card.dataset.tariff;
+                const price = card.dataset.price;
+
+                if (tariff && price) {
+                    orderTariff.textContent = `${tariff} — ${price}`;
+                }
+
+                document.querySelectorAll('.pricing-card').forEach((item) => {
+                    item.classList.toggle('selected', item === card);
+                });
+            }
+
             if (!registrationSection) {
                 return;
             }
@@ -13,6 +32,33 @@ document.addEventListener('DOMContentLoaded', () => {
             registrationSection.scrollIntoView({ behavior: 'smooth', block: 'start' });
         });
     });
+
+    purposeChips.forEach((chip) => {
+        chip.addEventListener('click', () => {
+            if (!purposeField) {
+                return;
+            }
+
+            purposeField.value = chip.dataset.purpose || '';
+            purposeField.dispatchEvent(new Event('input', { bubbles: true }));
+            purposeField.dispatchEvent(new Event('change', { bubbles: true }));
+
+            purposeChips.forEach((item) => {
+                item.classList.toggle('selected', item === chip);
+            });
+        });
+    });
+
+    if (purposeField) {
+        purposeField.addEventListener('input', () => {
+            const typed = purposeField.value.trim();
+            const match = [...purposeChips].find((chip) => chip.dataset.purpose === typed);
+
+            purposeChips.forEach((item) => {
+                item.classList.toggle('selected', item === match);
+            });
+        });
+    }
 
     if (!form) {
         return;
@@ -51,6 +97,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             form.reset();
+            purposeChips.forEach((item) => item.classList.remove('selected'));
         } catch (error) {
             if (message) {
                 message.textContent = error instanceof Error ? error.message : 'Не удалось отправить заявку.';
